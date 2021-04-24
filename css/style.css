@@ -278,6 +278,7 @@ header ul li a:hover{
 @media (max-width: 600px){
     .mosque{
         max-width: 400px;
-        opacity: 0.4; !important
+        opacity: 0.4 !important; 
     }
 }
+
